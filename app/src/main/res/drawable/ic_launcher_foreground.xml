@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shoulder straps -->
+    <path
+        android:pathData="M38,22 L47,22 L47,42 L38,42 Z"
+        android:fillColor="#2D2A3D" />
+    <path
+        android:pathData="M61,22 L70,22 L70,42 L61,42 Z"
+        android:fillColor="#2D2A3D" />
+
+    <!-- Bag body -->
+    <path
+        android:pathData="M27,38 L81,38 L81,84 Q81,90 75,90 L33,90 Q27,90 27,84 Z"
+        android:fillColor="#FF8FAB" />
+
+    <!-- Top flap -->
+    <path
+        android:pathData="M38,26 L70,26 Q76,26 76,32 L76,44 L32,44 L32,32 Q32,26 38,26 Z"
+        android:fillColor="#FF6B8B" />
+
+    <!-- Front pocket -->
+    <path
+        android:pathData="M46,58 L62,58 Q68,58 68,64 L68,72 Q68,78 62,78 L46,78 Q40,78 40,72 L40,64 Q40,58 46,58 Z"
+        android:fillColor="#FFF4E0" />
+</vector>
